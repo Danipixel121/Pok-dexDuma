@@ -1,7 +1,7 @@
 {
-    "name": "Pokedex",
-    "short_name": "Pokedex",
-    "description": "Una Pokedex que contiene información sobre todos los Pokémon.",
+    "name": "Pokédex",
+    "short_name": "Pokédex",
+    "description": "Una Pokédex que contiene información sobre todos los Pokémon.",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
